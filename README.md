@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woz07
-- 👀 I’m interested in computer science especially coding
-- 🌱 I’m currently learning computer science in high school and java
+- 👀 I’m interested in coding, especially Java
+- 🌱 I’m currently learning computer science in high school and java at home
 - 💞️ I’m looking to collaborate on projects in the future maybe
 - 📫 You can send me a message on my insta: @zfakess
